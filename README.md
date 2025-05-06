@@ -1,5 +1,4 @@
-# Final Project – Northwind Data Lakehouse (Databricks)
-
+# Final Project – Capstone
 This repository contains a Databricks notebook used to build a dimensional data lakehouse using the Northwind dataset.
 
 # Contents
